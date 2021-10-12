@@ -1,2 +1,2 @@
 # aaaa-nubo-koa-example
-skeletal koa app for testing
+A skeletal koa app for testing
